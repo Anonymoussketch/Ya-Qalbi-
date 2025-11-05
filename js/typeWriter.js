@@ -1,6 +1,5 @@
-
 let i = 0;
-let text1 = "!......";
+let text1 = "!...............";
 let text2 = ""
 let speed = 100;
 
