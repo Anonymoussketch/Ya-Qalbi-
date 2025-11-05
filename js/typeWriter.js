@@ -1,7 +1,7 @@
 
 let i = 0;
 let text1 = "The storm will pass and ";
-let text2 = "the sun will rise again."
+let text2 = "the sun will rise again. Insha Allah ❤️"
 let speed = 100;
 
 function typeWriter(text, para){
